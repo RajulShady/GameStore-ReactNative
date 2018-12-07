@@ -1,0 +1,824 @@
+{
+    "data": {
+      "2249": {
+        "id": 2249,
+        "rank": 42,
+        "url": "https://play.ludigames.com/games/fantasySkydiverFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Fantasy Skydiver"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Do you have what it takes to skydive in a world of fantasy?\r\n\r\nExplore the skies of Fantasy World to collect golden stars.\r\nEncounter incredible creatures and objects such as the mystic unicorn or the singing piano.\r\nBut stay away from them if you want to land safely! Touching them will disorient you and make you fall.\r\n\r\nTouch the right/left side of the screen to move your skydiver and avoid the different creatures and objects.\r\nExplore 12 different levels that get progressively harder.\r\nCollect all 3 stars in each level and make the sky yours!"
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2249/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Ad Games",
+          "Action",
+          "Adventure",
+          "Family",
+          "Casual",
+          "Featured"
+        ]
+      },
+      "2521": {
+        "id": 2521,
+        "rank": 17,
+        "url": "https://play.ludigames.com/games/nitroStreetRunFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Nitro Street Run"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Transform ordinary rides into underground racing machines and show everyone how fast and far your skills can take you. The gangs want you to join them, the cops want you off the street, and you just want fame and fortune.\r\n\r\nGo as fast as possible and avoid traffic and traps.\r\nThe race will end if you get caught by the police.\r\nMake sure you collect enough gas tanks to race to the finish line.\r\n\r\nControls\r\nTap the right/left side of the screen to turn right/left."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2521/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Ad Games",
+          "Action",
+          "Racing",
+          "Sport",
+          "Featured"
+        ]
+      },
+      "2523": {
+        "id": 2523,
+        "rank": 27,
+        "url": "https://play.ludigames.com/games/bubbleBashFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Bubble Bash"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Simple and addictive: Anyone can play Bubble Bash, but getting to the end requires a ton of skill!\r\n\r\nBash 3 or more bubbles of the same color together to make them explode. \r\n\r\nTo aim: Drag the aiming line from left to right and release your finger to shoot, or touch the screen where you want to shoot."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2523/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Ad Games",
+          "Action",
+          "Logic",
+          "Family",
+          "Casual",
+          "Featured"
+        ]
+      },
+      "2532": {
+        "id": 2532,
+        "rank": 40,
+        "url": "https://play.ludigames.com/games/castleofIntenseDismayFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Our Toughest Game"
+        },
+        "isPortrait": false,
+        "description": {
+          "en": "The Castle of Intense Dismay is a level-based running game.\r\nControl a barbarian and explore the terrifying castle.\r\nBut beware: Avoid deadly traps and jump over streams of lava.\r\n\r\nOn your quest for freedom, your magic sword will be your best friend in fighting the fearless guardians of the Castle of Intense Dismay.\r\n\r\nControls:\r\nThe barbarian runs automatically.\r\nTap the left side of the screen to jump.\r\nTap the right side of the screen to use your sword."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2532/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Ad Games",
+          "Action",
+          "Adventure",
+          "Strategy",
+          "Featured"
+        ]
+      },
+      "2542": {
+        "id": 2542,
+        "rank": 56,
+        "url": "https://play.ludigames.com/games/midnightPoolClassicFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Midnight Pool Classic"
+        },
+        "isPortrait": false,
+        "description": {
+          "en": "The wildest pool players are back. Master every trick shot in the book and prove who's the best player around.\r\n\r\nPlay classic 8-Ball pool.\r\n\r\nControls:\r\nTap the screen or use the left/right icons to move the cue. Tap the cue ball to control the power of your hit."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2542/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Action"
+        ]
+      },
+      "2564": {
+        "id": 2564,
+        "rank": 43,
+        "url": "https://play.ludigames.com/games/kiteFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Kite"
+        },
+        "isPortrait": false,
+        "description": {
+          "en": "Go back to your childhood with this Kite mini-game. Show your true skills and talent to keep the kite flying high.\r\n\r\nControl: Tap the screen to keep the kite in the air and avoid obstacles on the ground."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2564/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Ad Games",
+          "Family",
+          "Casual"
+        ]
+      },
+      "2614": {
+        "id": 2614,
+        "rank": 34,
+        "url": "https://play.ludigames.com/games/novaCoveredOpsFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Nova Covered Ops"
+        },
+        "isPortrait": false,
+        "description": {
+          "en": "Kal Wardin  has received a desperate plea from Yelena to come to Earth. Once again, our hero must rise to save mankind!\r\n\r\nExplore 14 immersive levels set in 2 environments.\r\n\r\nControl: Aim with the V-Pad\r\nCollect multiple power-ups and special weapons."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2614/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Action",
+          "Featured"
+        ]
+      },
+      "2655": {
+        "id": 2655,
+        "rank": 57,
+        "url": "https://play.ludigames.com/games/supercapeOfJusticeFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Supercape of Justice"
+        },
+        "isPortrait": false,
+        "description": {
+          "en": "Become the hero and take the cape of justice to shoot down the evil robots invading Earth.\r\n\r\nControls: \r\nYour hero flies automatically. \r\nTap the upper-left side of the screen to fly up.\r\nTap the lower-left side of the screen to fly down.\r\nTap the right side of the screen to shoot energy beams."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2655/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Action",
+          "Adventure",
+          "Family",
+          "Featured"
+        ]
+      },
+      "2665": {
+        "id": 2665,
+        "rank": 49,
+        "url": "https://play.ludigames.com/games/fantasySushiDiverFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Fantasy Sushi Diver"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Dive deep into the ocean, avoid the underwater perils and collect your fresh sushi ingredients.\r\n\r\nControls:\r\nYour character dives automatically.\r\nTap the left side of the screen to go left.\r\nTap the right side of the screen to go right."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2665/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Adventure",
+          "Casual",
+          "Featured",
+          "Food Service"
+        ]
+      },
+      "2682": {
+        "id": 2682,
+        "rank": 48,
+        "url": "https://play.ludigames.com/games/nitroTukTukFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Nitro Tuk Tuk"
+        },
+        "isPortrait": false,
+        "description": {
+          "en": "For everyone who loves speed, a lighthearted and easy-to-control urban driving game.\r\n\r\nControls: \r\nYour tuk-tuk runs automatically. \r\nTap the top of the screen to go up.\r\nTap the bottom of the screen to go down.\r\nAvoid obstacles and collect fuel and stars for traffic victory."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2682/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Action",
+          "Adventure",
+          "Racing",
+          "Sport",
+          "Featured"
+        ]
+      },
+      "2719": {
+        "id": 2719,
+        "rank": 7,
+        "url": "https://play.ludigames.com/games/realFootballRunnerFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Real Football Runner"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Nothing can stop you from scoring and having fun in this football-themed running game.\r\n\r\nControls: \r\nTap the left/right side of the screen to avoid opponents. \r\nCollect energy drinks to continue your run. \r\nCollect stars and reach the goal."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2719/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Action",
+          "Sport"
+        ]
+      },
+      "2725": {
+        "id": 2725,
+        "rank": 28,
+        "url": "https://play.ludigames.com/games/pocketDessertChefFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Pocket Dessert Chef"
+        },
+        "isPortrait": false,
+        "description": {
+          "en": "Visit dessert heaven in this cooking simulation, designed to bring out the chef in you. \r\n\r\nControls: Touch and follow the instructions on the screen to play."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2725/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Family",
+          "Casual",
+          "For Girls",
+          "Featured",
+          "Food Service"
+        ]
+      },
+      "2740": {
+        "id": 2740,
+        "rank": 32,
+        "url": "https://play.ludigames.com/games/match3OfTheWestFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Match 3 of the West"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Play as the Monkey King and Zhu Bajie to defeat their enemies in this competitive match-3 game inspired by Journey to the West.\r\n\r\nControls: Swipe the screen to match 3 or more tiles of the same color or type."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2740/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Action",
+          "Logic",
+          "Adventure"
+        ]
+      },
+      "2748": {
+        "id": 2748,
+        "rank": 35,
+        "url": "https://play.ludigames.com/games/touchTheEvenFiguresFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Touch the even figures"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Who said numbers can't be fun? Test your brain with this simple, yet challenging game.\r\n\r\nControls: Tap on the even numbers and see how far you can go!"
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2748/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Logic",
+          "Casual",
+          "Featured"
+        ]
+      },
+      "2762": {
+        "id": 2762,
+        "rank": 22,
+        "url": "https://play.ludigames.com/games/bubbleBlockBreakerFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Bubble Block Breaker"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Prove your talent and dexterity in this exciting new game of endless bouncing bubbles. Sun, sand, the ocean and happy bubbles await!\r\n\r\nControls: \r\nTap on the screen to launch the bubbles. Touch and hold to control the platform. Swipe left and right to catch the bubbles!"
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2762/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Family",
+          "Casual",
+          "For Girls"
+        ]
+      },
+      "2772": {
+        "id": 2772,
+        "rank": 29,
+        "url": "https://play.ludigames.com/games/pastryParadiseFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Pastry Paradise"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "In the mood for a delicious, delectable and EXCITING match-three puzzle?! Be a star baker in Pastry Paradise now!\r\n\r\nControls: \r\nTouch and swipe to match 3 or more delicious cakes together. Use powerful combos to get higher scores."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2772/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Logic",
+          "Casual"
+        ]
+      },
+      "2784": {
+        "id": 2784,
+        "rank": 46,
+        "url": "https://play.ludigames.com/games/infiniteHeightsFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Infinite Heights"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Help this little balloon overcome all obstacles in its endless adventure. Up you go! The sky's the limit!\r\n\r\nControls: \r\nThe balloon goes up automatically. Tap the screen to go down and dodge obstacles."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2784/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Family",
+          "Casual"
+        ]
+      },
+      "2794": {
+        "id": 2794,
+        "rank": 8,
+        "url": "https://play.ludigames.com/games/puzzlePetsPairsFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Puzzle Pets: Pairs"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Pair adorable pets in this super cute and addictive puzzle game.\r\n\r\nControls: Tap on two pets of the same type to match them."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2794/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Logic"
+        ]
+      },
+      "2813": {
+        "id": 2813,
+        "rank": 21,
+        "url": "https://play.ludigames.com/games/nitroStreetDragModeFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "NitroStreet: DragMode"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Experience the intense rivalry of drag-racing competitions.\r\n\r\nControls: \r\nTouch the screen to start the race and shift gears at the right moment to get ahead of opponents."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2813/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Action",
+          "Racing"
+        ]
+      },
+      "2817": {
+        "id": 2817,
+        "rank": 45,
+        "url": "https://play.ludigames.com/games/ninjaUpFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Ninja UP!"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Jump as high as you can with the most daring 2D pixel ninja!\r\n\r\nWill you make careful mini-jumps, or shoot for the moon with wildly high leaps of faith? It's up to you in this retro arcade adventure that will test your skills unlike any other endless runner.\r\n\r\nControls: \r\nTouch the screen to draw the jumping line to help your little ninja fly up."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2817/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Casual"
+        ]
+      },
+      "2836": {
+        "id": 2836,
+        "rank": 15,
+        "url": "https://play.ludigames.com/games/realFootballChallengeFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Real Football Challenge"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Have an exciting summer with everyone's favorite sport: football. Lead your team to victory by solving clever tactical puzzles and claim the championship!\r\n\r\nControls: \r\nFollow the instructions on the screen to play."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2836/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Logic",
+          "Sport"
+        ]
+      },
+      "2841": {
+        "id": 2841,
+        "rank": 26,
+        "url": "https://play.ludigames.com/games/puzzlePetsMemoryFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Puzzle Pets: Memory"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Let these cute creatures help you give your memory a workout.\r\n\r\nControls: Tap cards to flip them over. Match two animals of the same type."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2841/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Logic",
+          "Casual",
+          "For Girls"
+        ]
+      },
+      "2850": {
+        "id": 2850,
+        "rank": 38,
+        "url": "https://play.ludigames.com/games/gameloftSlotMachineFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Gameloft Slot Machines"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Own your slot machine collection, from classic models to futuristic ones. Your super prizes await, so it's time to GO BIG!\r\n \r\nControls: Tap the screen and follow the instructions to play."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2850/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Casual"
+        ]
+      },
+      "2851": {
+        "id": 2851,
+        "rank": 55,
+        "url": "https://play.ludigames.com/games/gameloftSportsMinigameCollectionFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Gameloft Sports Minigame Collection"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "A collection of exciting mini-games to celebrate the world's biggest sporting event! Compete in various competitions such as the 100-meter dash, weightlifting, and the long jump and have tons of fun!\r\n \r\nControls: Tap the screen and follow the instructions to play."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2851/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Family",
+          "Sport"
+        ]
+      },
+      "2863": {
+        "id": 2863,
+        "rank": 18,
+        "url": "https://play.ludigames.com/games/gameloftSolitaireFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Gameloft Solitaire"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Everyone's favorite card game, Solitaire, just got better. Join an exciting journey around the world and a unique experience that you won't forget.\r\n\r\nControls: Tap the screen and follow the instructions to play."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2863/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Logic",
+          "Casual"
+        ]
+      },
+      "2867": {
+        "id": 2867,
+        "rank": 13,
+        "url": "https://play.ludigames.com/games/siberianStrikeFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Siberian Strike"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Siberian Strike is a retro-style aerial combat game where you face challenging bosses in massive aircrafts. With lots of action, exciting combat and cool upgrades to make your planes stronger, the game will test your skills and provide tons of fun.\r\n \r\nControls: Tap and hold your finger on the screen to control the plane. Shoot down enemy aircrafts and avoid their bullets. Beat the bosses to complete levels."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2867/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Simulation"
+        ]
+      },
+      "2920": {
+        "id": 2920,
+        "rank": 10,
+        "url": "https://play.ludigames.com/games/ludibubblesFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Ludibubbles"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Ludibubbles is all about shooting colored bubbles. It's simple, addictive to play, yet still very challenging and offers lots of excitement.\r\n\r\nControl: Tap the screen to shoot the current bubble. Aim the cannon to shoot in the desired direction."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2920/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Casual"
+        ]
+      },
+      "2959": {
+        "id": 2959,
+        "rank": 20,
+        "url": "https://play.ludigames.com/games/hexAquaticFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "HexAquatic"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Dive into the deep with this distinctive match-3 game. \r\n\r\nControls: Tap and swipe to connect the same kind of creatures."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/2959/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Logic",
+          "Casual"
+        ]
+      },
+      "3067": {
+        "id": 3067,
+        "rank": 9,
+        "url": "https://play.ludigames.com/games/nitroStreetRun2Free/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Nitro Street Run 2"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Nitro Street Run is back and bigger than ever! Relive your most exciting moments in all-new modes: Classic Race, Takedown, Escape the Cops and Duels. Enhancing the game even further are a new upgrade system and totally revamped graphics. This is the sequel you've been waiting for!\r\n\r\nControls: Tap the screen to race, change lanes, avoid obstacles and leave your rivals in the dust."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3067/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Action",
+          "Racing",
+          "Featured"
+        ]
+      },
+      "3232": {
+        "id": 3232,
+        "rank": 14,
+        "url": "https://play.ludigames.com/games/dangerDashFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Danger Dash"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "A runner game for players who are not afraid of pushing their reflexes to the limit in a dangerous dash to victory. Run through the jungle, survive scores of obstacles in a lost city, and hold on for your life in the mysterious temple! Only a real runner will survive!\r\n\r\nControls: Swipe following the instructions on the screen to play."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3232/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Action",
+          "Racing",
+          "Casual"
+        ]
+      },
+      "3297": {
+        "id": 3297,
+        "rank": 36,
+        "url": "https://play.ludigames.com/games/piratesPathOfTheBuccaneerFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Pirates: Path of the Buccaneer"
+        },
+        "isPortrait": false,
+        "description": {
+          "en": "Join the intense naval battles of the pirate lords. Pirates: Path of the Buccaneer is a great adventure of cannon balls, sea monsters and pirate ships that you won't forget. \r\n\r\nControls: Tap on the screen to make the ship move forward/backward. Swipe and hold to aim the cannon and release to shoot."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3297/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      "3467": {
+        "id": 3467,
+        "rank": 16,
+        "url": "https://play.ludigames.com/games/paddingtonFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Paddington"
+        },
+        "isPortrait": false,
+        "description": {
+          "en": "Paddington is a game based on 2014 movie of the same name. You can share the famous bears adventures by helping him solving riddles at some of the most memorial moments of the movie: looking for hidden objects, re-arranging items to their original locations or solving puzzles.\r\n\r\nControls: Follow on screen instructions to play the game."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3467/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Casual"
+        ]
+      },
+      "3536": {
+        "id": 3536,
+        "rank": 12,
+        "url": "https://play.ludigames.com/games/paperFlightFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Paper Flight"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Help little paper planes fly past obstacles and score as many points as possible in this simple yet challenging game.\r\n\r\nControls: Tap and hold the screen to fly up, release to glide down."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3536/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Adventure",
+          "Family",
+          "Casual",
+          "Featured"
+        ]
+      },
+      "3548": {
+        "id": 3548,
+        "rank": 30,
+        "url": "https://play.ludigames.com/games/blockBreaker3UnlimitedFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Block Breaker 3 Unlimited"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Break on through to the next generation of Block Breaker! Experience deeper, more intricate levels, that take you beyond a single screen full of blocks. Grab power-ups, trigger switches and blast through gateways to reach new areas as you push your way towards the top. Try to keep up with multiple balls on the same screen, or even multiple pads! The thrill never stops, thanks to the level generator. Enemies and epic boss battles await you each step of the way, so stay focused and have a blast!\r\n\r\nA breakthrough game!  \r\nInnovative new scrolling level design adds depth to all 100 of the game's stages.\r\nTons of new power-ups including the ability to deal with multiple balls and pads!\r\nClimactic boss battles at the end of each of the 7 locations.\r\nSpend in-game cash to upgrade your pad at the shop and buy new bonuses and powers.\r\nExperience 9 different game modes including Hot-Seat Multiplayer and Block Master.\r\nEnjoy never-ending fun thanks to the level generator!"
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3548/default/html5/banners/640/banner.jpg"
+        },
+        "categories": []
+      },
+      "3598": {
+        "id": 3598,
+        "rank": 5,
+        "url": "https://play.ludigames.com/games/meowMeowLifeFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Meow Meow Life"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "You will never get bored looking at the lovely cat in Meow Meow Life. This little friend you can feed, take care of and play with will brighten your day every time. A joyful world awaits for all!\r\n\r\nControls: Follow the in-game instructions to play."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3598/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Casual"
+        ]
+      },
+      "3624": {
+        "id": 3624,
+        "rank": 24,
+        "url": "https://play.ludigames.com/games/castleOfMagicFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Castle of Magic"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Wield powerful magic and win furious monsters in this magical game. You will master a large number of spells (some of which will allow you to be transformed into various animals). Play levels that have interactive surfaces where you can fly, slide, float, walk on the ceiling, etc.! Get through 5 magic countries and save the world from villains."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3624/default/html5/banners/640/banner.jpg"
+        },
+        "categories": []
+      },
+      "3714": {
+        "id": 3714,
+        "rank": 11,
+        "url": "https://play.ludigames.com/games/fierceShotFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Fierce Shot"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Are you football fan? Are you manga fan too? Now both of them are in one \"\"FIERCE SHOT\"\"\r\nLet's make Carrer ON, pass all challenges with Continent Cup, International Cup and none can stop to be THE TOP OF THE WORLD!!\r\nImprove yourself with endless mode training, manage your development day by day by seeing more sexier, stronger and accurate in your shoot."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3714/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Sport"
+        ]
+      },
+      "3796": {
+        "id": 3796,
+        "rank": 6,
+        "url": "https://play.ludigames.com/games/kitchenBazarFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Kitchen Bazar"
+        },
+        "isPortrait": false,
+        "description": {
+          "en": "Become the most famous chef in Manhattan! Cook and serve everyone during the rush hours to raise money and build your restaurant! Compete online to be the best chef among your friends and show off your own style in your own place!\r\nWe've cooked up a new twist on casual puzzle gameplay\r\nContinuously grow your business and level up to discover more furniture\r\nContent that will keep you busy for months!"
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3796/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Casual"
+        ]
+      },
+      "3802": {
+        "id": 3802,
+        "rank": 2,
+        "url": "https://play.ludigames.com/games/urbanStackFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Urban Stack"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "It's never been easier to build your own dream city! Building many wonderful structures in our amazing Urban Stack game is as simple as stacking bricks. But be careful! A truly magnificent city requires both patience and skill. Do you have what it takes?\r\n\r\nControls: Tap the screen to stack stories. Time it right to get a perfect placement."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3802/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Casual"
+        ]
+      },
+      "3863": {
+        "id": 3863,
+        "rank": 3,
+        "url": "https://play.ludigames.com/games/hexAquaticKrakenFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "HexAquatic Kraken"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Dive into the deep with this distinctive match-3 game:\r\nExplore the wondrous depths of the ocean with colorful sea animals, coral reefs and much more.\r\nRide the tides, solve puzzles, defeat the Kraken and protect the ocean. \r\nEnjoy the vibrant art, immersive gameplay and beautiful music."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3863/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Casual"
+        ]
+      },
+      "3913": {
+        "id": 3913,
+        "rank": 4,
+        "url": "https://play.ludigames.com/games/realFootballFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Real Football"
+        },
+        "isPortrait": false,
+        "description": {
+          "en": "The famous long-running soccer series is here with a whole set of new features! Build your dream team and lead them to become champions of the world!\r\n\r\nReal Football is a free simulation sports game where you'll be able to win a league or cup championship, play with world champions, be a manager of a fantasy team, and more. We're bringing you a real, free fantasy simulation and a comprehensive manager game, all in one soccer package.\r\n\r\nWhether you like soccer simulations, fantasy manager games or you're simply a fan of the sport, this free game is for you."
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3913/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Sport"
+        ]
+      },
+      "3983": {
+        "id": 3983,
+        "rank": 1,
+        "url": "https://play.ludigames.com/games/zombieSplashFree/?utm_source=gameloft&utm_medium=bookmark&utm_campaign=PH88",
+        "name": {
+          "en": "Zombie Splash"
+        },
+        "isPortrait": true,
+        "description": {
+          "en": "Escape from an apocalypse Armageddon where people are being infected and turned into Zombies.\r\nPick up your favorite off-road vehicles, challenge your brain by controlling 2 of them to splash all undead being on the way\r\n3 chapters with 15 levels driving you through the city, the desert, and the jungle \r\nMany zombies species trying to infect you  CRUSH EM ALL"
+        },
+        "assets": {
+          "image": "https://media01.gameloft.com/products/3983/default/html5/banners/640/banner.jpg"
+        },
+        "categories": [
+          "Action"
+        ]
+      }
+    },
+    "categories": [
+      "Ad Games",
+      "Action",
+      "Adventure",
+      "Family",
+      "Casual",
+      "Featured",
+      "Sport"
+    ]
+  }
